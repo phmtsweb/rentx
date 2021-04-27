@@ -1,13 +1,2 @@
 {
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
-  "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
-  "eslint.format.enable": true,
-  "prettier.jsxSingleQuote": true,
-  "javascript.preferences.quoteStyle": "single",
-  "eslint.codeAction.showDocumentation": {
-    "enable": true
-  }
 }
